@@ -1,1 +1,28 @@
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Python
+__pycache__/
+*.pyc
+
+# Quarto/R Markdown
+*_cache/
+*_files/
+
+# OS/Sync conflicts
+*conflict*
+*sync-conflict*
+*.tmp
+
+# Misc
+Thumbs.db
