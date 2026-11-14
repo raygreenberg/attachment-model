@@ -1,8 +1,6 @@
 **attachment-model-rscript**
 R script analysis for functional attachment modeling and risk-associated decision
 
-*01 and 02 should run cleanly, ignore 3 + 4; will delete and push*
-
 **contents**
 - *Data connection*: Scripts assume `/data/02scalesT1.csv` as the primary cleaned T1 dataset.
 - *Attachment modeling*: EFA models built using `lavaan`:
@@ -27,8 +25,6 @@ Description: Constructs scale-level variables and reverse-coded items for functi
 -Descriptive statistics
 -Correlation matrices (for original and reverse-scored variables)
 -Bar plots original + reverse
-
-*ignore 3 + 4 for now, will delete/push*
 
 **packages used**
 - readr
