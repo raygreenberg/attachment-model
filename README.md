@@ -5,7 +5,7 @@ R script analysis for functional attachment modeling and risk-associated decisio
 
 **contents**
 - *Data connection*: Scripts assume `/data/02scalesT1.csv` as the primary cleaned T1 dataset.
-- *Attachment modeling*: CFA models built using `lavaan`:
+- *Attachment modeling*: EFA models built using `lavaan`:
   - removed non-positive definite indicators
   - tested correlated family/peer structures
   - adjusted parental and peer indicators
